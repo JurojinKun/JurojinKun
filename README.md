@@ -1,9 +1,4 @@
-<img 
-    src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"
-    alt="Chill gif"
-    align="right"
-    width="298px"
-    height="189px"/>
+[<img align="right" alt="Chill gif" src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif" width="380" height="210" />](https://github.com/CocoLng)
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
