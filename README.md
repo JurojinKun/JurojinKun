@@ -5,7 +5,9 @@
 🌱 **Young shooter in the development world** 🌱
 
 I am a 26 year old french engineer who started his career in the world of AI, image processing and computer vision. 👨‍🎓
+
 I am currently and for 2 years and a half, a self-taught frontend developer in the vast world of mobile and web development. 📱
+
 Why not learn the backend to become a full stack developer soon? 🧠
 
 ---
