@@ -1,7 +1,7 @@
  <img 
     src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"
     alt="Chill gif"
-    align="right"
+    align="center-right"
     height="200px"
     width="375px" />
 
