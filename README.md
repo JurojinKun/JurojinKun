@@ -1,6 +1,10 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[<img align="right" alt="Chill" src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif" width="300" height="200" />](https://github.com/JurojinKun)
+ <img 
+    src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"
+    alt="Chill gif"
+    align="right"
+    width="380px" />
 
 🌱 **Jeune pousse dans le monde du développement** 🌱
 
