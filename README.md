@@ -4,38 +4,38 @@
     src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"
     alt="Chill gif"
     align="right"
-    height="250px"
-    width="400px" />
+    height="200px"
+    width="350px" />
 
-🌱 **Jeune pousse dans le monde du développement** 🌱
+🌱 **Young shooter in the development world** 🌱
 
-Je suis un jeune ingénieur de 26 ans qui a commencé sa carrière dans le monde de l'IA, du traitement de l'image et de la vision par oridnateur. 👨‍🎓
-Je suis actuellement et depuis 2 ans et demi, un développeur frontend autodidacte dans le vaste monde du développement mobile et web. 📱
-Pourquoi pas apprendre le backend pour devenir sous peu un développeur full stack ? 🧠
+I am a 26 year old french engineer who started his career in the world of AI, image processing and computer vision. 👨‍🎓
+I am currently and for 2 years and a half, a self-taught frontend developer in the vast world of mobile and web development. 📱
+Why not learn the backend to become a full stack developer soon? 🧠
 
 ---
 
 ### Projects
 
-🔭 Depuis quelques temps, je travaille sur des projets qui me tiennent à coeur et qui sortent de ma tête lorsque j'ai du temps libre:
-- [Gemu](https://github.com/Gemu-Inc/Gemu_ui), v1 d'une application réseau social pour les gens s'intéressant de près ou de loin à l'e-sport et aux jeux vidéos developpé en Flutter lié à un serveur Firebase 🔜 Pourquoi ne pas avoir une version 2, affaire à suivre...
-- [My youkounkoun](https://github.com/JurojinKun/my_youkounkoun_front), une application fait à partir de zéro qui se veut être une application avec déjà beaucoup de bases et de fonctionnalités très utiles lors d'une création d'une nouvelle application. Pourquoi repartir à chaque fois de zéro ? La partie application front-end est développé en Flutter et la partie back-end sera devéloppé en Node.js avec une base MySQL.
+🔭 For some time, I have been working on projects that are close to my heart and that come out of my head when I have free time:
+- [Gemu](https://github.com/Gemu-Inc/Gemu_ui), v1 of a social network application for people interested in e-sport and video games developed in Flutter linked to a Firebase server 🔜 Why not have a version 2, case to follow...
+- [My youkounkoun](https://github.com/JurojinKun/my_youkounkoun_front), an application made from scratch which is meant to be an application with already a lot of basics and features very useful when creating a new application. Why start from scratch every time? The front-end application is developed in Flutter and the back-end will be developed in Node.js with a MySQL database.
 
-A l'avenir je l'espère, pleins d'autres projets sortis tout droit de mon imagination ! 🤔
+In the future I hope, many other projects straight out of my imagination! 🤔
 
 ---
 
 ### Skills
 
-💭 Un petit résumé de mes compétences à l'instant t:
+💭 A small summary of my skills at the moment:
 - Frontend: Dart (Flutter), JavaScript (React native, React.js), Python, C
 - Backend: Node.js, Firebase
 - CI/CD: GitHub, Bitbucket, SourceTree
 
 ---
 
-💼 **Learning:** coder, communiquer mais aussi d'écoute, de calme et de paix. Devenir la meilleure version de moi-même.
+💼 **Learning:** coding, communicating but also listening, calm and peace. Becoming the best version of myself.
 
-❤️ **Passion (at night):** recherche constante de nouvelles fonctionnaités, d'optimisations et de réparer les différents bugs (quel soulagement 😅)
+❤️ **Passion (at night):** constant search for new features, optimizations and fixing different bugs on a project (what a relief 😅)
 
-🎧 **Music:** Ou que j'aille et quoi que je fasse, la musique me suivra partout pour m'évader
+🎧 **Music:** Wherever I go and whatever I do, music will follow me everywhere to escape
