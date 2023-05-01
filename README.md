@@ -6,7 +6,7 @@ I am a 26 year old french engineer who started his career in the world of AI, im
 I am currently and for 2 years and a half, a self-taught frontend developer in the vast world of mobile and web development. 📱
 Why not learn the backend to become a full stack developer soon? 🧠
 
-<div style="text-align: right"><img src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif" alt="Chill gif"></div>
+<div style="text-align: right"><img src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif" alt="Chill gif" style="float:right;"></div>
 
 ---
 
