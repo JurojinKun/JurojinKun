@@ -4,7 +4,7 @@
     src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"
     alt="Chill gif"
     align="right"
-    width="400px" />
+    width="250px" />
 
 🌱 **Jeune pousse dans le monde du développement** 🌱
 
@@ -34,5 +34,7 @@ A l'avenir je l'espère, pleins d'autres projets sortis tout droit de mon imagin
 ---
 
 💼 **Learning:** coder, communiquer mais aussi d'écoute, de calme et de paix. Devenir la meilleure version de moi-même.
+
 ❤️ **Passion (at night):** recherche constante de nouvelles fonctionnaités, d'optimisations et de réparer les différents bugs (quel soulagement 😅)
+
 🎧 **Music:** Fait amusant, ou que j'aille et quoi que je fasse, la musique me suivra partout pour m'évader
