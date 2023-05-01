@@ -3,7 +3,9 @@
 <img 
     src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"
     alt="Chill gif"
-    align="right" />
+    align="right"
+    width="298px"
+    height="189px"/>
 
 🌱 **Young shooter in the development world** 🌱
 
