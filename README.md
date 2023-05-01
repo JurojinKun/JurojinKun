@@ -4,13 +4,13 @@
     src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"
     alt="Chill gif"
     align="right"
-    width="380px" />
+    width="400px" />
 
 🌱 **Jeune pousse dans le monde du développement** 🌱
 
 Je suis un jeune ingénieur de 26 ans qui a commencé sa carrière dans le monde de l'IA, du traitement de l'image et de la vision par oridnateur. 👨‍🎓
-Je suis actuellement et depuis 2 ans et demi, un développeur front-end autodidacte dans le vaste monde du développement mobile et web. 📱
-Pourquoi pas apprendre le back-end pour devenir sous peu un développeur full stack ? 🧠
+Je suis actuellement et depuis 2 ans et demi, un développeur frontend autodidacte dans le vaste monde du développement mobile et web. 📱
+Pourquoi pas apprendre le backend pour devenir sous peu un développeur full stack ? 🧠
 
 ---
 
@@ -24,5 +24,15 @@ A l'avenir je l'espère, pleins d'autres projets sortis tout droit de mon imagin
 
 ---
 
-- 👨🏽‍💻 I’m actively working on something cool
-- 🌱 I’m currently learning so much things
+### Skills
+
+💭 Un petit résumé de mes compétences à l'instant t:
+- Frontend: Dart (Flutter), JavaScript (React native, React.js), Python, C
+- Backend: Node.js, Firebase
+- CI/CD: GitHub, Bitbucket, SourceTree
+
+---
+
+💼 **Learning:** coder, communiquer mais aussi d'écoute, de calme et de paix. Devenir la meilleure version de moi-même.
+❤️ **Passion (at night):** recherche constante de nouvelles fonctionnaités, d'optimisations et de réparer les différents bugs (quel soulagement 😅)
+🎧 **Music:** Fait amusant, ou que j'aille et quoi que je fasse, la musique me suivra partout pour m'évader
