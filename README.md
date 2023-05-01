@@ -9,7 +9,7 @@ Why not learn the backend to become a full stack developer soon? 🧠
 <img 
     src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"
     alt="Chill gif"
-    align="center"
+    align="right"
     height="225px"
     width="400px" />
 
