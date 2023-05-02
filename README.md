@@ -26,7 +26,7 @@ In the future I hope, many other projects straight out of my imagination! 🤔
 
 💭 A small summary of my skills at the moment:
 - Frontend: Dart (Flutter), JavaScript (React native, React.js), Python, C
-- Backend: Node.js, Firebase
+- Backend: Node.js, Sequelize, Firebase
 - CI/CD: GitHub, Bitbucket, SourceTree
 
 ---
