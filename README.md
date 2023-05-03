@@ -2,7 +2,7 @@
 
 [<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />](https://github.com/JurojinKun?tab=repositories)
 
-🌱 **Young shooter in the development world** 🌱
+🌱 **Young developper in the IT world** 🌱
 
 I am a 26 years old french engineer who started his career in the world of AI, image processing and computer vision. 👨‍🎓
 
