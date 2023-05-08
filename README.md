@@ -29,6 +29,8 @@ In the future I hope, many other projects straight out of my imagination! 🤔
 - Backend: Node.js, Sequelize, Firebase
 - CI/CD: GitHub, Bitbucket, SourceTree
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ---
 
 💼 **Learning:** coding, communicating but also listening, calm and peace. Becoming the best version of myself.
