@@ -26,9 +26,9 @@ In the future I hope, many other projects straight out of my imagination! 🤔
 
 💭 A small summary of my skills at the moment:
 - Frontend: Dart (Flutter), JavaScript (React native, React.js), Python, C
-[![My Skills](https://skillicons.dev/icons?i=dart, flutter, js, react, python, c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,js,react,python,c)](https://skillicons.dev)
 - Backend: Node.js, Sequelize, MySQL, Firebase, Postman
-[![My Skills](https://skillicons.dev/icons?i=nodejs, sequelize, mysql, firebase, postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,sequelize,mysql,firebase,postman)](https://skillicons.dev)
 - CI/CD: GitHub, Bitbucket, SourceTree
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
