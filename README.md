@@ -28,6 +28,7 @@ In the future I hope, many other projects straight out of my imagination! 🤔
 - Frontend: Dart (Flutter), JavaScript (React native, React.js), Python, C
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,js,react,python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,js,react,python,c)](https://skillicons.dev)
 
 - Backend: Node.js, Sequelize, MySQL, Firebase, Postman
 
