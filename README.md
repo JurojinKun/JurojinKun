@@ -27,16 +27,24 @@ In the future I hope, many other projects straight out of my imagination! 🤔
 💭 A small summary of my skills at the moment:
 - Frontend: Dart (Flutter), JavaScript (React native, React.js), Python, C
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,js,react,python,c)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,js,react,python,c)](https://skillicons.dev)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://skillicons.dev)
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+[![Javascript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 - Backend: Node.js, Sequelize, MySQL, Firebase, Postman
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,sequelize,mysql,firebase,postman)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Sequelize](https://skillicons.dev/icons?i=sequelize)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 - CI/CD: GitHub, Bitbucket, SourceTree
 
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 ---
 
