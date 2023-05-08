@@ -44,7 +44,7 @@ In the future I hope, many other projects straight out of my imagination! 🤔
 
 - CI/CD: GitHub, Bitbucket, SourceTree
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/JurojinKun)
 
 ---
 
