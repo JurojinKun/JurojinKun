@@ -1,9 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&pause=1000&color=F7F7F7&vCenter=true&width=375&height=20&lines=+%F0%9F%8C%B1+Young+developper+in+the+IT+world+%F0%9F%8C%B1+;%F0%9F%8C%B1+Always+learning+new+things+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
 [<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />](https://github.com/JurojinKun?tab=repositories)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&pause=1000&color=F7F7F7&vCenter=true&width=375&height=20&lines=+%F0%9F%8C%B1+Young+developper+in+the+IT+world+%F0%9F%8C%B1+;%F0%9F%8C%B1+Always+learning+new+things+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 I am a 26 years old french engineer who started his career in the world of AI, image processing and computer vision. 👨‍🎓
 
@@ -49,7 +48,7 @@ A small summary of my skills at the moment:
 
 ---
 
-### ⚡️ Stats
+### 🔥 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JurojinKun&theme=discord-old-blurple&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
