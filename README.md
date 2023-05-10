@@ -12,9 +12,9 @@ Why not learn the backend to become a full stack developer soon? 🧠
 
 ---
 
-### Projects
+### 🔭 Projects
 
-🔭 For some time, I have been working on projects that are close to my heart and that come out of my head when I have free time:
+For some time, I have been working on projects that are close to my heart and that come out of my head when I have free time:
 - [Gemu](https://github.com/Gemu-Inc/Gemu_ui), v1 of a social network application for people interested in e-sport and video games developed in Flutter linked to a Firebase server 🔜 Why not have a version 2, case to follow...
 - [My youkounkoun](https://github.com/JurojinKun/my_youkounkoun_front), an application made from scratch which is meant to be an application with already a lot of basics and features very useful when creating a new application. Why start from scratch every time? The front-end application is developed in Flutter and the back-end will be developed in Node.js with a MySQL database.
 
@@ -22,9 +22,9 @@ In the future I hope, many other projects straight out of my imagination! 🤔
 
 ---
 
-### Skills
+### 💭 Skills
 
-💭 A small summary of my skills at the moment:
+A small summary of my skills at the moment:
 - Frontend: Dart (Flutter), JavaScript (React native, React.js), Python, C
 
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
@@ -45,6 +45,12 @@ In the future I hope, many other projects straight out of my imagination! 🤔
 - CI/CD: GitHub, Bitbucket, SourceTree
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/JurojinKun)
+
+---
+
+### ⚡️ Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JurojinKun&theme=discord-old-blurple&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 ---
 
