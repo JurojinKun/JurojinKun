@@ -8,7 +8,7 @@
 
 I am a 26 years old french engineer who started his career in the world of AI, image processing and computer vision. 👨‍🎓
 
-I am currently and for 2 years and a half, a self-taught frontend developer in the vast world of mobile and web development. 📱
+Since 2 years and a half, I am a self-taught frontend developer in the vast world of mobile and web development. 📱
 
 Why not learn the backend to become a full stack developer soon? 🧠
 
@@ -16,11 +16,11 @@ Why not learn the backend to become a full stack developer soon? 🧠
 
 ### 🔭 Projects
 
-For some time, I have been working on projects that are close to my heart and that come out of my head when I have free time:
+For some time, I have been working on projects that are close to my heart and that come out of my head during my spare time:
 - [Gemu](https://github.com/Gemu-Inc/Gemu_ui), v1 of a social network application for people interested in e-sport and video games developed in Flutter linked to a Firebase server 🔜 Why not have a version 2, case to follow...
-- [My youkounkoun](https://github.com/JurojinKun/my_youkounkoun_front), an application made from scratch which is meant to be an application with already a lot of basics and features very useful when creating a new application. Why start from scratch every time? The front-end application is developed in Flutter and the back-end will be developed in Node.js with a MySQL database.
+- [My youkounkoun](https://github.com/JurojinKun/my_youkounkoun_front), an application made from scratch which is meant to be an application with a huge variety of basics and complex features very useful when creating a new application. Why start from scratch every time? The front-end application is developed with Flutter and the back-end will be developed in Node.js link to MySQL database.
 
-In the future I hope, many other projects straight out of my imagination! 🤔
+Hopefully in the future, many other projects straight out of my imagination! 🤔
 
 ---
 
