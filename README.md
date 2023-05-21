@@ -6,7 +6,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a 26 years old french engineer who started his career in the world of AI, image processing and computer vision. 👨‍🎓
+I am a 26 years old french engineer who started his career in the world of AI, image processing and computer vision. 👨‍🎓🇨🇵
 
 Since 2 years and a half, I am a self-taught frontend developer in the vast world of mobile and web development. 📱
 
