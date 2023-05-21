@@ -27,12 +27,14 @@ Hopefully in the future, many other projects straight out of my imagination! ðŸ¤
 ### ðŸ’­ Skills
 
 A small summary of my skills at the moment:
-- Frontend: Dart (Flutter), JavaScript (React native, React.js), Python, C
+- Frontend: Dart (Flutter), React native, React Redux, React.js, Three.js, Python, C
 
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 [![Javascript](https://skillicons.dev/icons?i=js)]()
 [![React](https://skillicons.dev/icons?i=react)](https://fr.legacy.reactjs.org/)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://react-redux.js.org/)
+[![Three](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![C](https://skillicons.dev/icons?i=c)]()
 
